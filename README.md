@@ -1,4 +1,4 @@
-# TAREA_3_STUDYJAM_DEV_FOR_BEGGINERS
+STUDYJAM_TAREA_3_
 Esquema de proyecto Study Jam
 
-https://ninjamock.com/project/list/7944658
+https://ninjamock.com/s/2Z1WX
